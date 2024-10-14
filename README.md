@@ -50,32 +50,19 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/bk.huy204" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="bkahuy-facebook" />
+  <a href="https://www.facebook.com/tida.tr" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tida-facebook" />
   </a>
-  <a href="https://www.tiktok.com/@bk.huy204" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="bkahuy-instagram" />
+  <a href="https://www.linkedin.com/in/tien-dat-tran-1853a0322/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tida-linkedin" />
   </a>
-  <a href="https://www.youtube.com/@buikhachuy8479" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="bkahuy-youtube" />
+  <a href="https://www.instagram.com/_tida.tr_/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tida-instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/bui-huy-171865187/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="bkahuy-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/bk.huy204/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="bkahuy-instagram" />
-  </a>
-  <a href="buikhachuy003@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="bkahuy-email" />
+  <a href="trtiendat.004@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tida-email" />
   </a>
 </div>
 
 <br>
 
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/bkahuy_quotes.svg" width="846" height="150" alt="bkahuy-mot-lap-trinh-vien" />
-</a>
