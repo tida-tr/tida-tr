@@ -1,7 +1,7 @@
 ![](svg/welcome.svg)
 <!-- bkahuy -->
 <a href="#" target="_blank">
-  <img src="svg/bkahuy.svg" width="1200" alt="bkahuy-official" />
+  <img src="svg/tida.svg" width="1200" alt="tida-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -37,11 +37,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="bkahuy">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkahuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="tida-tr">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tida-tr&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="bkahuy">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=bkahuy&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <a href="#" title="tida-tr">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tida-tr&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
